@@ -1,0 +1,13 @@
+ordering:
+  about: ''
+  blog: ''
+  contact: ''
+items:
+  about:
+    dropdown_dir: right
+    dropdown_hide: '0'
+    width: auto
+  blog:
+    object_id: 51
+  contact:
+    object_id: 18
